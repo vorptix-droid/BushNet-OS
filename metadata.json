@@ -1,0 +1,6 @@
+{
+  "name": "BushNet Handheld OS & Pi 5 Simulator",
+  "description": "Handheld outdoor survival computer OS running on a 5.0\" touchscreen with Rii mini keyboard, offline Qwen AI, GPIO sensor hub (BMP180, DHT11, KY-001), VK-162 GPS, wildlife and animal track identification, solar/lunar ephemeris, and wilderness first aid triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
